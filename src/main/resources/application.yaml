@@ -1,3 +1,6 @@
 spring:
   application:
     name: dscommerce-restassured
+
+server:
+  port: 8081
